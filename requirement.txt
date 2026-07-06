@@ -1,0 +1,17 @@
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+LightGBM
+
+Matplotlib
+
+PowerShell
+
+Windows Event Logs
+
+Digital Forensics
